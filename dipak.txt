@@ -1,0 +1,21 @@
+#appwrite
+
+#two methods to store environment variables.
+- dotenv package
+- package depedent - vite env 
+                   - create-react-app env 
+
+#vendor lock in
+
+# forward ref -
+one form contain many input element.
+so for better approach, create a another input element and access it in form where it need. 
+but there is one thing. all input have different state management. 
+if we create a input in form so also create a input handler. So for above approach we use forward ref
+
+# react hook form
+
+# RTE (real time editor)
+
+# cors ki error aati he. 
+    appwrite me change kiya. overview section.
